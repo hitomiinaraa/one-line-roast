@@ -1,3 +1,4 @@
+// One-line roast: my microwave demands emotional closure.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const line =
